@@ -1,0 +1,8 @@
+	ASSIGNMENT 1
+
+How to create folder in windows using command line
+
+ans-for($i=0;$i-1t 50;$i)
+{
+	md"sk$i"
+}
