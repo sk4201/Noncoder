@@ -1,0 +1,16 @@
+     5/06/19
+
+1).File does not start with touch but with command. (Linux)
+
+Ans-open vi /etc/bashrc and asssign(alias) the touch command 
+with other name 
+
+Q2 Find no of lines and words from a file which is not saved but in RAM. (Linux)
+
+Answer-wc -l -w
+
+  -m, --chars            print the character counts
+  -l, --lines            print the newline count
+  -L, --max-line-length  print the maximum display width
+  -w, --words            print the word counts
+
